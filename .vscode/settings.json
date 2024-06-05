@@ -1,0 +1,11 @@
+{
+    "css.enabled": true,
+    "css.enabledModules": [
+        "react",
+        "react-dom"
+    ],
+    "css.enabledLanguages": [
+        "html",
+        "jsx"
+    ]
+}
